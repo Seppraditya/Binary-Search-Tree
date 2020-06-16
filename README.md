@@ -4,8 +4,12 @@ NIM	: 1910512022
 
 Pada kesempatan kali ini, izinkan saya memberikan suatu projek yaitu materi Binary Search Tree. Materi ini saya upload dengan ketentuan sebagai syarat mengikuti ujian akhir perkuliahaan. Mohon maaf apabila program nya belum maksimal dan masih banyak kekurangan, mohon sekiranya dimaafkan.
 
+
+
 DESKRIPSI UMUM PROJEK 
 Projek yang saya upload ini berisikan tentang bagaimana cara kerja Binary Search Tree dengan metode PreOrder, InOrder, dan PostOrder menggunakan bahasa pemrograman C. User bisa menginput data (INSERT data) , Menampilkan data, Menghapus data (DELETE data) , Mengkosongkan data, mencari data, serta mengetahui urutan data terkecil / data terbesar.
+
+
 
 FITUR FITUR PROGRAM
 1. Menambahkan data
@@ -15,7 +19,10 @@ FITUR FITUR PROGRAM
 5. Cari data
 6. Menampilkan urutan data terbesar&terkecil
 
+
+
 CARA PENGGUNAAN PROGRAM
+
 untuk menu '1' jika di ketik, maka user akan menginput data yang ingin dimasukan
 selanjutnya jika sudah dimasukan, program akan memberi tahu bahwa data yang dimasukan sudah berhasil.
 
