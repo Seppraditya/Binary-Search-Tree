@@ -1,6 +1,9 @@
 Pembuat : Septian Aditya Prasetyo
+
 status  : mahasiswa
+
 NIM	: 1910512022
+
 
 Pada kesempatan kali ini, izinkan saya memberikan suatu projek yaitu materi Binary Search Tree. Materi ini saya upload dengan ketentuan sebagai syarat mengikuti ujian akhir perkuliahaan. Mohon maaf apabila program nya belum maksimal dan masih banyak kekurangan, mohon sekiranya dimaafkan.
 
