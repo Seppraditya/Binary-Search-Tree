@@ -1,6 +1,6 @@
 Pembuat : Septian Aditya Prasetyo
 
-status  : mahasiswa
+status  : Mahasiswa aktif UPN Veteran Jakarta
 
 NIM	: 1910512022
 
@@ -10,6 +10,7 @@ Pada kesempatan kali ini, izinkan saya memberikan suatu projek yaitu materi Bina
 
 
 DESKRIPSI UMUM PROJEK 
+
 Projek yang saya upload ini berisikan tentang bagaimana cara kerja Binary Search Tree dengan metode PreOrder, InOrder, dan PostOrder menggunakan bahasa pemrograman C. User bisa menginput data (INSERT data) , Menampilkan data, Menghapus data (DELETE data) , Mengkosongkan data, mencari data, serta mengetahui urutan data terkecil / data terbesar.
 
 
